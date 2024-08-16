@@ -46,7 +46,7 @@ const Home = () => {
           <div>
             <h2>Submission Successful!</h2>
             <img src={imageUrl} alt="Random Image" />
-            <p>Username: {username}</p>
+            <p>Name: {username}</p>
           
           </div>
         )}
