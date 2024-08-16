@@ -28,7 +28,7 @@ const Home = () => {
         <div className="card">
           <form onSubmit={handleSubmit}>
             <div className="input-group">
-              <label htmlFor="username">Type your Name</label>
+              <label htmlFor="username" class="name">Type your Name</label>
               <input
                 type="text"
                 id="username"
